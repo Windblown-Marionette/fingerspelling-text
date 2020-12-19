@@ -30,7 +30,7 @@ Photo Predictions
 
 Notebook 1: Current Working Setup
 
-[template from drawio](readme_images/project map.png?raw=true)
+[template from drawio](readme_images/project_map.png?raw=true)
 
 Table of contents
 
