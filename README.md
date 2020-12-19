@@ -2,9 +2,8 @@
 Convolutional Neural Network intended to go from video of finger spelling in American Sign Language to a text string.
 
 
-Current Notebook Titles
 
-
+			Notebook 0: Exploration
 
 Table of contents
 
@@ -14,42 +13,46 @@ Improvement paths from starting model
 
 Optimizing hyperparameters via grid search (useful for smaller CNN's)
 
-(pending as well) Implementing the second data set: grassnoted archive
+Implementing Data: ASL Alphabet
 
- -test with validation
+Training with Validation
 
- -Test with Larger Images
+Test with Larger Images
 
 Creating a single photo of my hand signing 'A' for demo purposes
 
-Modeling
+Transfer Learning
 
- -Removing a dense layer to reduce overfitting and increase fitting speed.
-
-	Training model_3
-
-	 -creating model
-
-	 -compiling model
-
-	 -fitting model
-
-	Current Workstop
+Removing a dense layer to reduce overfitting and increase fitting speed.
 
 Photo Predictions
 
- -A
 
- -O
+Notebook 1: Current Working Setup
 
- -K
+![template from drawio](readme_images/"project map".png)
 
- -D
+Table of contents
 
- -C webcam test
+Importing Data
+CNN Model
+Making Methods
+Interaction
 
- -heatmap of test data
 
-	 -Predictions with Iterators
+Notebook 1:
 
-	 -Saving or loading the model as desired.
+Training model_3
+
+ -creating model
+
+ -compiling model
+
+ -fitting model
+
+Current Workstop
+
+
+ -Predictions with Iterators
+
+ -Saving or loading the model as desired.
