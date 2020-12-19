@@ -26,15 +26,15 @@ Modeling
 
  -Removing a dense layer to reduce overfitting and increase fitting speed.
 
-Training model_3
+	Training model_3
 
- -creating model
+	 -creating model
 
- -compiling model
+	 -compiling model
 
- -fitting model
+	 -fitting model
 
-Current Workstop
+	Current Workstop
 
 Photo Predictions
 
@@ -50,6 +50,6 @@ Photo Predictions
 
  -heatmap of test data
 
- -Predictions with Iterators
+	 -Predictions with Iterators
 
- -Saving or loading the model as desired.
+	 -Saving or loading the model as desired.
