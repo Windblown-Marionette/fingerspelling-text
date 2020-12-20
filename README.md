@@ -3,7 +3,7 @@ Convolutional Neural Network intended to input photos of finger spelling in Amer
 
 
 
-			## Notebook 0: Exploration
+## Notebook 0: Exploration
 
 
 Demonstrating CNN use with The ASL MNIST Dataset and a simple neural network
@@ -27,7 +27,7 @@ Removing a dense layer to reduce overfitting and increase fitting speed.
 Photo Predictions
 
 
-			## Notebook 1: Current Working Setup
+Notebook 1: Current Working Setup
 
 ![template from drawio](readme_images/project_map.png?raw=true)
 
@@ -56,6 +56,6 @@ Current Workstop
  -Saving or loading the model as desired.
 
 
-			## model_3_0
+## model_3_0
 
 Current trained model for image recognition tasks.
