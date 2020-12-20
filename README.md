@@ -27,7 +27,7 @@ Removing a dense layer to reduce overfitting and increase fitting speed.
 Photo Predictions
 
 
-Notebook 1: Current Working Setup
+## Notebook 1: Current Working Setup
 
 ![template from drawio](readme_images/project_map.png?raw=true)
 
