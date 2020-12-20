@@ -1,11 +1,10 @@
 # finger-spelling-text
-Convolutional Neural Network intended to go from video of finger spelling in American Sign Language to a text string.
+Convolutional Neural Network intended to input photos of finger spelling in American Sign Language and output a text string.
 
 
 
-			Notebook 0: Exploration
+			## Notebook 0: Exploration
 
-Table of contents
 
 Demonstrating CNN use with The ASL MNIST Dataset and a simple neural network
 
@@ -28,11 +27,10 @@ Removing a dense layer to reduce overfitting and increase fitting speed.
 Photo Predictions
 
 
-Notebook 1: Current Working Setup
+			## Notebook 1: Current Working Setup
 
 ![template from drawio](readme_images/project_map.png?raw=true)
 
-Table of contents
 
 Importing Data
 CNN Model
@@ -56,3 +54,8 @@ Current Workstop
  -Predictions with Iterators
 
  -Saving or loading the model as desired.
+
+
+			## model_3_0
+
+Current trained model for image recognition tasks.
