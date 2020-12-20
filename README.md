@@ -1,6 +1,8 @@
 # finger-spelling-text
-Convolutional Neural Network intended to input photos of finger spelling in American Sign Language and output a text string.
 
+Convolutional Neural Network that inputs and classifies photos of fingerspelling in American Sign Language.
+
+Summaries of file contents are as follows:
 
 
 ## Notebook 0: Exploration
@@ -33,29 +35,45 @@ Photo Predictions
 
 
 Importing Data
+
 CNN Model
+
 Making Methods
+
 Interaction
-
-
-Notebook 1:
-
-Training model_3
-
- -creating model
-
- -compiling model
-
- -fitting model
-
-Current Workstop
-
-
- -Predictions with Iterators
-
- -Saving or loading the model as desired.
 
 
 ## model_3_0
 
 Current trained model for image recognition tasks.
+
+
+-----------------
+
+
+## Installation instructions for the anaconda environment needed:
+
+
+(open an anaconda prompt and run these lines, one at a time)
+
+
+conda create -n fingerspelling
+
+conda activate fingerspelling
+
+conda install numpy pandas matplotlib jupyter jupyterlab seaborn
+
+pip install tensorflow==2.4
+
+
+## Launch instructions
+
+
+(in order to open a notebook in this environment, open an anaconda prompt
+and run these lines, one at a time. This will open jupyter notebook in a
+tab of your computer's default browser.)
+
+
+activate fingerspelling
+
+jupyter notebook
