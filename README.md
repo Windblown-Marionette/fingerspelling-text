@@ -48,6 +48,10 @@ Interaction
 Current trained model for image recognition tasks.
 
 
+## Hand Photography OpenCV2 hand-photography-opencv2.ipynb
+
+Planning scripts to capture hand photos from webcam.
+
 -----------------
 
 
