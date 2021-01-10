@@ -10,6 +10,8 @@ Summaries of file contents are as follows:
 
 Demonstrating CNN use with The ASL MNIST Dataset and a simple neural network
 
+### Table of Contents
+
 Improvement paths from starting model
 
 Optimizing hyperparameters via grid search (useful for smaller CNN's)
@@ -33,6 +35,7 @@ Photo Predictions
 
 ![template from drawio](readme_images/project_map.png?raw=true)
 
+### Table of Contents
 
 Importing Data
 
@@ -48,9 +51,28 @@ Interaction
 Current trained model for image recognition tasks.
 
 
-## Hand Photography OpenCV2 hand-photography-opencv2.ipynb
+## Notebook 2: Exploring Hand Photography with opencv2
 
 Planning scripts to capture hand photos from webcam.
+
+### Table of Contents
+
+Opening an image with cv2 and optionally saving
+
+Capturing an image from my laptop camera
+
+Capturing an image of just my hands via cropping, for now
+
+Foreground detection
+
+Cropping based on hand presence
+
+
+## Notebook 3: Exploring Model Improvements and Training Models
+
+Earlier models were not deterministic, were difficult to test, and were consistently found lacking when used. 
+This notebook will attempt to produce improved models given these concerns.
+
 
 -----------------
 
