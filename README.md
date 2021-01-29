@@ -72,9 +72,11 @@ This notebook will attempt to produce improved models given these concerns. It w
 
 Baseline Model
 
-Trying Model Improvements: (sub-entries) Viewing image, Disabling the datagen's shuffle feature, Perhaps that warning when importing MobileNetV2 is actually not all bark and no bite
+Trying Model Improvements: (sub-entries) Viewing image, Disabling the datagen's shuffle feature, Perhaps that warning when importing MobileNetV2 is actually not all bark and no bite, Optimizing hyperparameters via grid search
 
 Generating New Baseline: Model 5
+
+Trying Further Model Improvements
 
 -----------------
 
@@ -91,6 +93,8 @@ Generating New Baseline: Model 5
 `conda install numpy pandas matplotlib jupyter jupyterlab seaborn`
 
 `pip install tensorflow==2.4`
+
+`pip install -U keras-tuner `
 
 
 ## Launch instructions
